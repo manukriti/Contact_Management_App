@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "c27d34fb-ee10-452c-9ee9-7f8ce0c2be01",
+      "name": "Anukriti M",
+      "email": "1805281@kiit.ac.in"
+    },
+    {
+      "id": "d7d98fb6-5956-45ed-b13e-d065699ec151",
+      "name": "Vighnesh",
+      "email": "vighneshmandwaria@gmail.com"
+    },
+    {
+      "id": "d07ac607-6dbe-4afe-a26c-7442ecaa9e70",
+      "name": "Kaushik",
+      "email": "kaushik@gmail.com"
+    },
+    {
+      "id": "5fd6d239-610b-4c8d-8805-3bb718c2fba5",
+      "name": "Max",
+      "email": "max@gmail.com"
+    },
+    {
+      "id": "5760ccec-6da9-482a-8bd0-9a6cc4d53d43",
+      "name": "Ron",
+      "email": "Ron@gmail.com"
+    },
+    {
+      "id": "33da7da3-0503-4a99-8d58-08ee4a33f756",
+      "name": "Kavya Mandwaria",
+      "email": "kavya@gmail.com"
+    }
+  ]
+}
